@@ -1,4 +1,4 @@
-# Server nodeJS pour application Facebook
+# Serveur nodeJS pour application Facebook
 
 Le serveur permet une connexion à l'API facebook et de faire quelques requêtes afin de récupérer la liste des pages associées à un utilisateur ainsi que les posts d'une page.
 
